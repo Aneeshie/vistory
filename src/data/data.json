@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "virtual heritage",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "History Verse",
+    "paragraph": "History Isn’t Boring — You’re Just Not Inside It Yet."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We’re a team of five curious minds with a shared love for history, tech, and building cool stuff.Each of us brings something different to the table — from design to development to storytelling — and together, we’re on a mission to make heritage feel less like homework and more like an adventure.Our goal is to blend creativity and technology to make history more accessible, engaging, and relevant for today’s generation.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Diverse team with unique skills",
+      "Fun, interactive heritage learning",
+      "Built for students and young minds",
+      "Personalized timelines & tours"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "No expensive gear needed",
+      "Stunning visuals and UI",
+      "Tech + storytelling = magic",
+      "Passion-driven, not profit-chasing"
     ]
   },
   "Gallery": [
@@ -68,33 +68,18 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Guided historical tours",
+      "text": "Experience the past like never before with immersive, interactive tours of historical landmarks. Perfect for students and curious minds, our guides bring history to life with engaging visuals and storytelling."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Custom heritage timelines",
+      "text": "Create personalized timelines that highlight significant events in your family's history. Our platform allows you to curate and share your unique heritage story with friends and family."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Virtual field trips for schools",
+      "text": "Enhance your classroom experience with virtual field trips to historical sites. Our interactive platform allows students to explore and learn about history from the comfort of their own classrooms."
     }
   ],
   "Testimonials": [
@@ -131,23 +116,28 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "img": "img/team/blasti.png",
+      "name": "Shresth  Chauhan",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "img": "img/team/zerome.png",
+      "name": "Aneesh Das",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Meet Sanghani",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "img": "img/team/husky.png",
+      "name": "Aarnav Tandav",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/divyam.png",
+      "name": "Divyam Bafna",
       "job": "Project Manager"
     }
   ],
