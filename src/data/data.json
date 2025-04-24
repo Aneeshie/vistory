@@ -1,5 +1,5 @@
 {
-  "Header": {
+  "Header": { 
     "title": "History Verse",
     "paragraph": "History Isn’t Boring — You’re Just Not Inside It Yet."
   },
@@ -142,33 +142,33 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": " Mahindra University Campus, Hyderabad, India",
+    "phone": "+91 123 456 1234",
+    "email": "exmp@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-vr-cardboard",
+      "title": "Immersive 3D Heritage Exploration",
+      "text": "Experience world heritage sites in 3D with detailed tracking and spatial mapping. Navigate like you’re truly there — just pop on your VR headset!"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-gamepad",
+      "title": "Smart Cultural Learning Games",
+      "text": "Learn while you play! Our interactive mini-games make exploring culture and history fun, engaging, and unforgettable."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-globe",
+      "title": "Next-Gen Virtual Heritage Platform",
+      "text": "Think Google Earth, but exclusively for heritage sites — richer visuals, curated info, and a smoother, focused experience."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-book-open",
+      "title": "Integrated Site Info & History",
+      "text": "Get detailed insights about each site as you explore — historical facts, timelines, and cultural trivia, all woven right into your journey."
     }
   ]
 }

@@ -1,10 +1,10 @@
 body,
 html {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Coolvetica', sans-serif;
+  font-weight: 400;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   color: #777;
-  font-weight: 400;
   width: 100% !important;
   height: 100% !important;
 }
@@ -36,11 +36,14 @@ h5 {
   line-height: 20px;
 }
 p {
-  font-size: 15px;
+  font-family: 'Coolvetica', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #777;
 }
 p.intro {
   margin: 12px 0 0;
-  line-height: 24px;
 }
 a {
   color: #608dfd;
@@ -66,7 +69,7 @@ hr {
   width: 70px;
   text-align: center;
   position: relative;
-  background: #1e7a46;
+  background: #6372ff;  /* Changed from #1e7a46 to match theme */
   margin-bottom: 20px;
   border: 0;
 }
@@ -242,10 +245,11 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
+  font-family: 'Coolvetica', sans-serif;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 1.8;
   color: #fff;
-  font-size: 24px;
-  font-weight: 300;
-  line-height: 1.6;
   margin: 0 auto;
   margin-bottom: 40px;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.2);
@@ -272,6 +276,22 @@ header .intro-text {
   border-radius: 50%;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+#features h3 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 15px;
+}
+#features p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #777;
+}
+#features .section-title h2 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 30px;
 }
 /* About Section */
 #about {
@@ -317,7 +337,10 @@ header .intro-text {
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
 #about p {
-  line-height: 24px;
+  font-family: 'Coolvetica', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
   margin: 30px 0;
 }
 /* Services Section */
@@ -331,6 +354,9 @@ header .intro-text {
 }
 #services h2 {
   color: #fff;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 #services .section-title h2::after {
   position: absolute;
@@ -353,12 +379,15 @@ header .intro-text {
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 #services h3 {
-  font-weight: 500;
-  padding: 5px 0;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 24px;
+  font-weight: 600;
+  margin: 15px 0;
 }
 #services p {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  line-height: 24px;
 }
 #services .service-desc {
   margin-bottom: 40px;
@@ -442,9 +471,12 @@ header .intro-text {
   overflow: hidden;
 }
 .testimonial-content p {
-  margin-bottom: 0;
-  font-size: 14px;
+  font-family: 'Coolvetica', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
   font-style: italic;
+  margin-bottom: 0;
 }
 .testimonial-meta {
   margin-top: 10px;
@@ -470,6 +502,10 @@ header .intro-text {
   padding: 10px 0 0;
   color: #888;
 }
+#team .thumbnail .caption p {
+  font-size: 16px;
+  line-height: 24px;
+}
 /* Contact Section */
 #contact {
   background: linear-gradient(to right, #4776E6 0%, #8E54E9 100%);
@@ -494,7 +530,7 @@ header .intro-text {
 }
 
 #contact .form-control {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(45, 16, 16, 0.1);
   border: none;
   border-radius: 10px;
   color: #fff;
@@ -532,7 +568,7 @@ header .intro-text {
 }
 
 #contact .contact-info {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(6, 0, 0, 0.1);
   border-radius: 15px;
   padding: 30px;
   margin-top: 20px;
@@ -549,14 +585,22 @@ header .intro-text {
 }
 
 #contact .contact-item span {
-  font-size: 16px;
-  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  line-height: 28px;
+  color: rgba(114, 186, 192, 0.9);
+  margin-right: 6px;
+  /* Made brighter from 0.8 */
+}
+
+#contact .contact-item p {
+  color: rgba(255, 255, 255, 0.9); /* Added to make text more visible */
+  margin-bottom: 15px;
 }
 
 #contact .contact-item i.fa {
   margin-right: 10px;
   font-size: 20px;
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.8); /* Made brighter from 0.6 */
 }
 
 #contact .social {
@@ -587,6 +631,16 @@ header .intro-text {
   
   #contact .contact-info {
     margin-top: 40px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  .intro p {
+    font-size: 22px;
+    line-height: 1.6;
   }
 }
 
@@ -633,7 +687,7 @@ header .intro-text {
   }
   
   .intro p {
-    font-size: 18px;
+    font-size: 22px;
   }
   
   .btn-custom {
