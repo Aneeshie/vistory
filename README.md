@@ -36,3 +36,7 @@ yarn install
 
 # Start the development server
 yarn start
+
+
+> 🪟 On Windows? Make sure Node.js and Yarn are installed.  
+> Download Yarn from: https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
