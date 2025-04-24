@@ -67,17 +67,17 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-landmark",
       "name": "Guided historical tours",
       "text": "Experience the past like never before with immersive, interactive tours of historical landmarks. Perfect for students and curious minds, our guides bring history to life with engaging visuals and storytelling."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-history",
       "name": "Custom heritage timelines",
       "text": "Create personalized timelines that highlight significant events in your family's history. Our platform allows you to curate and share your unique heritage story with friends and family."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-chalkboard-teacher",
       "name": "Virtual field trips for schools",
       "text": "Enhance your classroom experience with virtual field trips to historical sites. Our interactive platform allows students to explore and learn about history from the comfort of their own classrooms."
     }
