@@ -1,9 +1,14 @@
 import React from "react";
 
 export const Header = (props) => {
+  const headerStyle = {
+    background: `url(${process.env.PUBLIC_URL}/img/intro-bg.jpg) center center no-repeat`,
+    backgroundSize: 'cover'
+  };
+
   return (
     <header id="header">
-      <div className="intro">
+      <div className="intro" style={headerStyle}>
         <div className="overlay">
           <div className="container">
             <div className="row">
