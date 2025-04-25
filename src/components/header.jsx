@@ -25,7 +25,7 @@ export const Header = (props) => {
                   Learn More
                 </a>{" "}
                 <a
-                  href="https://example.com" // Replace with your desired URL
+                  href="https://ruthlesstoucan.itch.io/vis-tory" // Replace with your desired URL
                   className="btn btn-custom btn-lg page-scroll"
                   target="_blank"  // Opens in new tab
                   rel="noopener noreferrer"  // Security best practice for external links
