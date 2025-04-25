@@ -85,60 +85,46 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Vistory made my history lessons come alive. My students were genuinely excited to explore monuments like never before!",
+      "name": "Hugh Jass"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "It felt like I was walking through the Colosseum from my bedroom. Who knew learning heritage could be this cool?",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Incredible use of 3D tech! As a designer, I loved the attention to detail in the virtual spaces",
+      "name": "Tatva Mittal"
     }
+   
   ],
   "Team": [
     {
       "img": "img/team/blasti.png",
       "name": "Shresth  Chauhan",
-      "job": "Director"
+      "job": "Game Art Developer"
     },
     {
       "img": "img/team/zerome.png",
       "name": "Aneesh Das",
-      "job": "Senior Designer"
+      "job": "Software Developer"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Meet Sanghani",
-      "job": "Senior Designer"
+      "job": "Graphic Designer"
     },
     {
       "img": "img/team/husky.png",
-      "name": "Aarnav Tandav",
-      "job": "Project Manager"
+      "name": "Aarnav Tandava",
+      "job": "Networking And Team Management"
     },
     {
       "img": "img/team/divyam.png",
       "name": "Divyam Bafna",
-      "job": "Project Manager"
+      "job": "Developer, content writer."
     }
   ],
   "Contact": {

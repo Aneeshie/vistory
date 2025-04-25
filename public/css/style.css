@@ -446,43 +446,63 @@ header .intro-text {
   padding: 100px 0;
   background: #f6f6f6;
 }
-#testimonials i {
-  color: #e6e6e6;
-  font-size: 32px;
+
+.testimonial {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  min-height: 250px; /* Ensures consistent height */
+  display: flex;
+  flex-direction: column;
+}
+
+.testimonial-image {
+  display: flex;
+  align-items: center;
   margin-bottom: 20px;
 }
-.testimonial {
-  position: relative;
-  padding: 20px;
-}
-.testimonial-image {
-  float: left;
-  margin-right: 15px;
-}
-.testimonial-image,
+
 .testimonial-image img {
-  display: block;
   width: 64px;
   height: 64px;
   border-radius: 50%;
+  object-fit: cover;
+  margin-right: 15px;
 }
+
 .testimonial-content {
-  position: relative;
-  overflow: hidden;
+  flex: 1;
 }
+
 .testimonial-content p {
   font-family: 'Coolvetica', sans-serif;
-  font-weight: 400;
-  font-size: 18px;
-  line-height: 28px;
+  font-size: 16px;
+  line-height: 1.6;
   font-style: italic;
-  margin-bottom: 0;
-}
-.testimonial-meta {
-  margin-top: 10px;
-  font-size: 15px;
-  font-weight: 600;
   color: #666;
+  margin-bottom: 15px;
+}
+
+.testimonial-meta {
+  font-weight: 600;
+  color: #333;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Responsive fixes */
+@media (max-width: 768px) {
+  .testimonial {
+    min-height: auto;
+    margin: 15px;
+  }
+  
+  .testimonial-content p {
+    font-size: 14px;
+  }
 }
 /* Team Section */
 #team {

@@ -30,7 +30,7 @@ export const Header = (props) => {
                   target="_blank"  // Opens in new tab
                   rel="noopener noreferrer"  // Security best practice for external links
                 >
-                  PLAY NOW
+                  EXPLORE
                 </a>{" "}
               </div>
             </div>
